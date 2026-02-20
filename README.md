@@ -1,7 +1,7 @@
 # discord-multi-orb-scrapper
 its a command to farm orbs more than 1 (infinity)
 
-
+note from dev - code under development ( it will not work right now )
 Requirement: install vencord or else discord ptb version
 commands :
 ```
